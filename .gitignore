@@ -1,0 +1,21 @@
+# Build artifacts
+Debug/
+Release/
+*.o
+*.elf
+*.hex
+*.map
+*.lss
+*.srec
+*.eep
+*.d
+
+# Atmel Studio / Visual Studio metadata
+.vs/
+*.atsuo
+*.componentinfo.xml
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for dir:*)",
+      "Bash(do echo:*)",
+      "Read(//c/Users/Zoran/Desktop/uC ATmega32U4/**)",
+      "Bash(done)",
+      "Bash(for subdir:*)",
+      "Bash(echo \"=== PROJECT SUMMARY ===\" echo \"\" echo \"Total source files \\(C++ implementation and headers\\):\" find \"/c/Users/Zoran/Desktop/uC ATmega32U4\" -type f \\\\\\( -name \"*.cpp\" -o -name \"*.h\" \\\\\\))",
+      "Bash(gh auth:*)",
+      "Bash(git --version)",
+      "Bash(git config:*)"
+    ]
+  }
+}
