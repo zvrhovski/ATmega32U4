@@ -1,6 +1,6 @@
 # Mikroupravljači — ATmega32U4
 
-Materijali za laboratorijske vježbe kolegija **Mikroupravljači** na Visokoj školi za informacijske tehnologije (VUB), uključujući skeletni kod vježbi, potpuna rješenja i udžbenik.
+Materijali za laboratorijske vježbe kolegija **Mikroupravljači** na Veleučilištu u Bjelovaru (VUB), uključujući skeletni kod vježbi, potpuna rješenja i udžbenik.
 
 ## Sadržaj
 
